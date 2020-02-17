@@ -1,0 +1,35 @@
+// fuentes //
+
+h1 {
+    font-family: $playfair;
+    font-weight: $black-italic;
+    font-size: $xx-large;
+    font-style: italic;
+}
+
+h3 {
+    font-family: $playfair;
+    font-weight: $regular;
+    font-size: $x-large;
+    font-style: italic;
+}
+
+h4 {
+    font-family: $roboto;
+    font-weight: $light;
+    font-size: $large;
+}
+
+h5 {
+    font-family: $playfair;
+    font-weight: $regular;
+    font-size: $medium;
+    color:$nickel;
+}
+
+p {
+    font-family: $roboto;
+    font-weight: $light;
+    font-size: $medium;
+    color: $nickel;
+}

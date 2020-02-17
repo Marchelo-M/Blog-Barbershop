@@ -1,0 +1,24 @@
+//Header //
+
+.nav-color {
+ background-color: $eerie-black; 
+}
+
+.logo {
+    width: 120px;
+    }
+
+.nav__item-c {
+    
+    a:hover {
+        color: $rudy-pink !important;
+      }
+}
+
+
+@include media-breakpoint-only(xs) {
+
+   .logo {
+       width: 100px;
+   }    
+}
